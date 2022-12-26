@@ -6,7 +6,7 @@ Coursework based on Java. Key technologies:
 * Requests and Responses are packed in Json by Gson
 * All data is stored in MySQL DB.
 
-##Structure of our Server
+## Structure of our Server
 
 Server is devided into three modules:
 1. JDBC
