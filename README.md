@@ -9,7 +9,7 @@ Coursework based on Java. Key technologies:
 ## Structure of our Server
 
 Server is devided into three modules:
-1. JDBC
+1. JDBC <br>
    It is the module, wich main aim is to work with our DB. Here you can find packages such as DAO, DBCreating, Entities etc.
 2. MainServer
    In this module we start out server. Here some lines of code, to understand, how it goes:
