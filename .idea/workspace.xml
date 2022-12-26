@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7391d22c-dd4a-4594-b972-763cf26861db" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/DAO/CardDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/DAO/FirmDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/DAO/ProductDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/DAO/SellerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/DAO/ShopCartDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/DAO/ShopClientDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/DAO/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/DBCreating/CreateDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/DBCreating/DBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/Entitites/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/Entitites/Firm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/Entitites/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/Entitites/Seller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/Entitites/ShopCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/Entitites/ShopClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/Entitites/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/Responses/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/Responses/Responses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/enum_choosing_service/ServiceType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/services/CardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/services/EntityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/services/EntityServiceSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/services/FirmService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/services/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/services/SellerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/services/ShopCartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/services/ShopClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/java/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/test/java/JDBC_CRUDTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainServer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainServer/src/main/java/MainServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainServer/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainServer/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainServer/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainServer/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultithreadingConnection/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultithreadingConnection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultithreadingConnection/src/main/java/ClientThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultithreadingConnection/src/main/java/Responses/RequestType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultithreadingConnection/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultithreadingConnection/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultithreadingConnection/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultithreadingConnection/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HYOr1CjhFmsW0jJLz8uFGmCbf0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Артемон/Desktop/Курсач ресурсы&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.uml&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Application.MainServer">
+    <configuration name="MainServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainServer" />
+      <module name="MainServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBC_CRUDTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JDBC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JDBC_CRUDTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainServer" />
+        <item itemvalue="JUnit.JDBC_CRUDTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7391d22c-dd4a-4594-b972-763cf26861db" name="Changes" comment="" />
+      <created>1668458748794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668458748794</updated>
+      <workItem from="1668458751938" duration="8663000" />
+      <workItem from="1668508041686" duration="2912000" />
+      <workItem from="1668522197191" duration="3069000" />
+      <workItem from="1668852766422" duration="2930000" />
+      <workItem from="1668864185250" duration="7184000" />
+      <workItem from="1669020640203" duration="3545000" />
+      <workItem from="1669051550430" duration="1905000" />
+      <workItem from="1669120236360" duration="90000" />
+      <workItem from="1669461490192" duration="4728000" />
+      <workItem from="1669563690662" duration="481000" />
+      <workItem from="1669625623100" duration="159000" />
+      <workItem from="1669655989201" duration="603000" />
+      <workItem from="1669752542855" duration="721000" />
+      <workItem from="1669754504961" duration="30000" />
+      <workItem from="1669754680789" duration="4374000" />
+      <workItem from="1669905331246" duration="3661000" />
+      <workItem from="1669910101321" duration="3300000" />
+      <workItem from="1669915813620" duration="1280000" />
+      <workItem from="1670059074291" duration="1854000" />
+      <workItem from="1670142925752" duration="22850000" />
+      <workItem from="1670242552340" duration="12397000" />
+      <workItem from="1670319290246" duration="976000" />
+      <workItem from="1670327301158" duration="11766000" />
+      <workItem from="1670428179439" duration="388000" />
+      <workItem from="1670429225316" duration="10362000" />
+      <workItem from="1670496720503" duration="3142000" />
+      <workItem from="1670504592782" duration="1299000" />
+      <workItem from="1670516965798" duration="6641000" />
+      <workItem from="1670576161417" duration="4383000" />
+      <workItem from="1670601625167" duration="11016000" />
+      <workItem from="1670616852707" duration="11000" />
+      <workItem from="1670616949243" duration="3422000" />
+      <workItem from="1670660879852" duration="29839000" />
+      <workItem from="1670706375683" duration="940000" />
+      <workItem from="1670743120219" duration="7701000" />
+      <workItem from="1670757069849" duration="51000" />
+      <workItem from="1670764109900" duration="3936000" />
+      <workItem from="1670768117422" duration="1758000" />
+      <workItem from="1670771692197" duration="3183000" />
+      <workItem from="1670778269062" duration="1667000" />
+      <workItem from="1670852689346" duration="618000" />
+      <workItem from="1670925771798" duration="1559000" />
+      <workItem from="1670929382108" duration="1458000" />
+      <workItem from="1670931590525" duration="768000" />
+      <workItem from="1671050634629" duration="2342000" />
+      <workItem from="1671178548445" duration="1008000" />
+      <workItem from="1671210618683" duration="62000" />
+      <workItem from="1671479090563" duration="667000" />
+      <workItem from="1671534971439" duration="596000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
